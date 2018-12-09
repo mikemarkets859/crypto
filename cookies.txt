@@ -1,0 +1,7 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+viabtc.pro	TRUE	/	FALSE	1999999999	PHPSESSID	ifq9mnul42hdun082d52b2c1q7
+.investora.co	TRUE	/	FALSE	1999999999	__cfduid	d04a0cf3ae1e457786399ada8001937fc1544320987
+viabtc.pro	TRUE	/	FALSE	1999999999	lang	English
+.viabtc.pro	TRUE	/	FALSE	1999999999	__cfduid	ddbf04882b95d705670c928acfc1c081f1544320992
+

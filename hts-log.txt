@@ -1,0 +1,19 @@
+HTTrack3.49-2+htsswf+htsjava launched on Sat, 08 Dec 2018 21:03:01 at https://viabtc.pro/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -WC2%Pns2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://viabtc.pro/ -O1 "C:\Users\Michael\Desktop\Viabtc Copy\Viabtc" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:03:13	Error: 	"Not Found" (404) at link https://viabtc.pro/assets/fonts/glyphicons-halflings-regular.eot (from https://viabtc.pro/assets/css/bootstrap.min.css)
+21:03:13	Error: 	"Not Found" (404) at link https://viabtc.pro/assets/fonts/glyphicons-halflings-regular.eot? (from https://viabtc.pro/assets/css/bootstrap.min.css)
+21:03:13	Error: 	"Not Found" (404) at link https://viabtc.pro/assets/fonts/glyphicons-halflings-regular.woff2 (from https://viabtc.pro/assets/css/bootstrap.min.css)
+21:03:13	Error: 	"Not Found" (404) at link https://viabtc.pro/assets/fonts/glyphicons-halflings-regular.woff (from https://viabtc.pro/assets/css/bootstrap.min.css)
+21:03:13	Error: 	"Not Found" (404) at link https://viabtc.pro/assets/fonts/glyphicons-halflings-regular.ttf (from https://viabtc.pro/assets/css/bootstrap.min.css)
+21:03:13	Error: 	"Not Found" (404) at link https://viabtc.pro/assets/fonts/glyphicons-halflings-regular.svg (from https://viabtc.pro/assets/css/bootstrap.min.css)
+21:03:13	Warning: 	File not parsed, looks like binary: https://viabtc.pro/assets/fonts/fontawesome-webfont.woff2?v=4.4.0
+21:03:13	Warning: 	Link https://viabtc.pro/cdn-cgi/l/email-protection not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 seconds : 39 links scanned, 32 files written (2418632 bytes overall) [1936845 bytes received at 161403 bytes/sec], 844579 bytes transferred using HTTP compression in 27 files, ratio 39%, 9.7 requests per connection
+(6 errors, 2 warnings, 0 messages)
